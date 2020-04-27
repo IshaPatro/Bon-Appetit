@@ -14,5 +14,13 @@ Software Requirements:
         Frontend: HTML, CSS, Bootstrap
         Backend: Flask
         Database: SQLAlchemy
+        
+
+Below are the screenshots of the Blog:
 
 ![ScreenShot](https://github.com/IshaPatro/Bon-Appetit/blob/master/Screenshots/Screenshot%20(3).png)
+![ScreenShot](https://github.com/IshaPatro/Bon-Appetit/blob/master/Screenshots/Screenshot%20(4).png)
+![ScreenShot](https://github.com/IshaPatro/Bon-Appetit/blob/master/Screenshots/Screenshot%20(5).png)
+![ScreenShot](https://github.com/IshaPatro/Bon-Appetit/blob/master/Screenshots/Screenshot%20(6).png)
+![ScreenShot](https://github.com/IshaPatro/Bon-Appetit/blob/master/Screenshots/Screenshot%20(7).png)
+![ScreenShot](https://github.com/IshaPatro/Bon-Appetit/blob/master/Screenshots/Screenshot%20(8).png)
