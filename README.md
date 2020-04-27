@@ -14,3 +14,5 @@ Software Requirements:
         Frontend: HTML, CSS, Bootstrap
         Backend: Flask
         Database: SQLAlchemy
+
+![ScreenShot](https://github.com/IshaPatro/Bon-Appetit/blob/master/Screenshots/Screenshot%20(3).png)
