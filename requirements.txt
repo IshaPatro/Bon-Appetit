@@ -45,7 +45,7 @@ pandas==1.0.3
 pandas-compat==0.1.1
 pandas-datareader==0.7.0
 pandocfilters==1.4.2
-Pillow==7.1.2
+Pillow==9.0.1
 plotly==4.6.0
 pycparser==2.18
 Pygments==2.6.1
