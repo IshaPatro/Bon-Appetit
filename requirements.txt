@@ -40,7 +40,7 @@ MarkupSafe==1.1.1
 mistune==0.8.4
 nbconvert==5.6.1
 nbformat==4.4.0
-numpy==1.18.2
+numpy==1.22.0
 pandas==1.0.3
 pandas-compat==0.1.1
 pandas-datareader==0.7.0
